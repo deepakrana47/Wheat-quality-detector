@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
 
     # to display image
-    # cv2.imshow("result_image.jpg", img)
-    # cv2.waitKey(0)
-    # cv2.destroyAllWindows()
+    cv2.imshow("result_image.jpg", img)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
 
