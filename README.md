@@ -29,4 +29,5 @@ Run:
   
     > Enter the file(wheat image) location to dectect : Test.jpg
 
+With this implementaion these is still problem with segmentation for close by grains.
 This implementaion idea is base on : "Prakhar K, Anurendra Kumar, Satyam Dwivedi(2017) AUTOMATIC WHEAT GRAIN QUALITY ESTIMATION, EE604 Project Report, IIT Kanpur" (link: http://home.iitk.ac.in/~anurendk/ee604/Report.pdf)
